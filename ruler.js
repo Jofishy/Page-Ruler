@@ -60,4 +60,4 @@ var toggleRuler = function (){
     }
 }
 
-text.addEventListener('mouseup', toggleRuler);
+text.addEventListener('mouseup', toggleRuler); 
